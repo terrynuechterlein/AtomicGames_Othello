@@ -1,4 +1,4 @@
-#Overview
+# Overview
 This project contains a JavaScript-based client (bot) for playing the game of Othello. The client connects to an Othello game server over TCP sockets and plays the game by sending calculated moves based on the current state of the game board.
 
 ##Prerequisites
