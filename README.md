@@ -4,8 +4,8 @@ This project contains a JavaScript-based client (bot) for playing the game of Ot
 ## Prerequisites
 Before running the game, ensure you have the following installed:
 
-Node.js
-Java (Recommended: Java SE 1.8.0 or Java 17 for compatibility with the game server)
+- Node.js
+- Java (Recommended: Java SE 1.8.0 or Java 17 for compatibility with the game server)
 
 ## Setting Up the Game
 Clone the Repository: Clone this repository to your local machine.
