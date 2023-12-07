@@ -10,7 +10,7 @@ Java (Recommended: Java SE 1.8.0 or Java 17 for compatibility with the game serv
 ## Setting Up the Game
 Clone the Repository: Clone this repository to your local machine.
 
-Install Dependencies: Navigate to the javascript SDK directory within the cloned repository and run npm install to install the necessary Node.js dependencies.
+Install Dependencies: run npm install to install the necessary Node.js dependencies.
 
 ## Running the Game
 The game consists of two parts: the game server (provided as a JAR file) and your JavaScript client.
